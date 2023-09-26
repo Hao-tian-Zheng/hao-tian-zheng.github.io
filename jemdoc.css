@@ -219,6 +219,7 @@ dd > *:first-child {
 ul {
 	list-style-position: outside;
 	list-style-type: square;
+	line-height:25px;
 }
 
 p + ul, p + ol {
@@ -227,6 +228,7 @@ p + ul, p + ol {
 
 li {
 	margin-top:0.9em;
+	/* height: 30px; */
 }
 
 ol {
